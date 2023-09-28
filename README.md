@@ -4,7 +4,7 @@
 ## A second-level heading
 ### A third-level heading
 
-![ ](https://unsplash.com/es/fotos/vpOeXr5wmR4)
+![](https://unsplash.com/es/fotos/vpOeXr5wmR4)
 
 </head>
 
