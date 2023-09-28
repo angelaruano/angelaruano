@@ -3,4 +3,4 @@
 
 <h3>Aquí encontraréis el código que voy aprendiendo y los proyectos en los que estoy trabajando.</h3>
 
-<body bgimage: url("https://unsplash.com/es/fotos/vpOeXr5wmR4").>
+<body bgimage= url("https://unsplash.com/es/fotos/vpOeXr5wmR4").>
