@@ -4,7 +4,7 @@
 
 ### Aquí encontraréis el código que voy aprendiendo y los proyectos en los que estoy trabajando.
 
-###Algunos repositorios de ciencia de datos están privados. Si quieres verlos, solicítamelo.
+### Algunos repositorios de ciencia de datos están privados. Si quieres verlos, solicítamelo.
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--sWV8Y0kc--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/kml9j34p9taplrnqtcez.jpg)
 
